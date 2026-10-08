@@ -1,0 +1,10 @@
+flask
+flask-cors
+fuzzywuzzy
+python-Levenshtein
+sentence-transformers
+transformers
+torch
+soundfile
+librosa
+gunicorn
