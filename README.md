@@ -10,7 +10,7 @@
 
 Unlike text-generation approaches, this system is **retrieval-based**: it does not invent Oríkì. It retrieves **verified, source-attributed Oríkì** from a curated dataset and presents them as both text and audio (real recordings or AI-generated chanting).
 
-**Author:** Oladimeji Zainab Olamide (254161)  
+**Author:** Oladimeji Zainab Olamide
 **Supervisor:** Prof. S. O. Akinola  
 **Institution:** University of Ibadan, Nigeria  
 **Year:** 2026
